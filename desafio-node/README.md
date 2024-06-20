@@ -1,10 +1,18 @@
 # Desafio Node & Nginx - Full Cycle
 
+## Como executar o projeto
+
 ```bash
-# docker compose
+# clonar repositório
+git clone https://github.com/renatohvo/docker-fullcycle.git
+
+# entrar na pasta
+cd desafio-node
+
+# executar compose
 docker-compose up -d
 
-# url
+# acessar url
 http://localhost:8080/
 ```
 
